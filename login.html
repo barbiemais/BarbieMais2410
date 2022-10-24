@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    
+  <head>
+      <meta charset= "UTF-8">
+     <title> Barbie Mais </title>
+<link rel="stylesheet" a href="./css/estilo.css">
+<link rel="shortcut icon" type="imagex/png" a href="./css/barbie2+.png"> 
+<link rel="stylesheet" a href="./img/iconreal.png">
+
+<style>
+
+    body{
+	color:#ffffff;
+background: linear-gradient(41deg, rgba(255,255,255,1) 0%, rgba(237,52,241,1) 35%, rgba(0,245,255,0.8232758620689655) 100%);
+background-size: auto;
+background-attachment: fixed;
+  width:100%;
+	font:600 16px/18px 'Open Sans',sans-serif;
+}
+
+*,:after,:before{box-sizing:border-box}
+.clearfix:after,.clearfix:before{content:'';display:table}
+.clearfix:after{clear:both;display:block}
+a{color:inherit;text-decoration:none}
+
+.login-wrap{
+  padding: 0px 0;
+  height: 56px;
+	width:100%;
+  top:55px;
+	margin:auto;
+	max-width:480px;
+	min-height:550px;
+	position:relative;
+  /*background:#eB26bf;*/
+	
+}
+.login-html{
+	width:100%;
+	height:100%;
+	position:absolute;
+	padding:90px 20px 0px 30px;
+}
+.login-html .sign-in-htm{
+	top:0;
+	left:0px;
+	right:15px;
+	bottom:0;
+	position:absolute;
+	transform:rotateY(180deg);
+	backface-visibility:hidden;
+	transition:all .4s linear;
+}
+.login-html .sign-in,{
+	display:none;
+}
+.login-html .tab-1{
+	text-transform:uppercase;
+}
+.login-html .tab{
+	font-size:22px;
+	margin-right:15px;
+	padding-bottom:5px;
+	margin:0 15px 10px 0;
+	display:inline-block;
+	border-bottom:2px solid transparent;
+}
+.login-html .sign-in:checked + .tab,{
+	color:#fff;
+  transition: .3s ease;
+	border-color:#CB117B;
+}
+
+.login-html .sign-in:checked + .tab + .login-form .sign-in-htm{
+	transform:rotate(0);
+}
+
+.hr{
+	height:2px;
+	margin:25px 0 50px 0;
+	background:rgba(255,255,255,.2);
+}
+.foot-lnk{
+	text-align:center;
+}
+   </style> 
+    
+    </head>
+    <body>
+	    
+	    <div class="login-wrap">
+	<div class="login-html">
+	 <img src="https://i.pinimg.com/originals/9d/5f/c1/9d5fc141043020e356a1034b6f5b64ae.png" style="right:500px; top:10px; position: absolute" width="200" height="180">  	 
+	<form action="login.php" method="post">
+	<input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Entrar</label>
+	
+	
+	<div class="login-form">
+	    
+			<div class="sign-in-htm">
+				<div class="group">
+					<label for="user" class="label">Email</label>
+					<input type="text" name="email" class="input" placeholder="E-mail..." required>
+				</div>
+	
+	
+	<div class="group">
+					<label for="pass" class="label">Senha</label>
+					<input type="password" name="senha" class="input" placeholder="Senha..." required>
+				</div>
+	
+    <div class="group">
+					<input id="check" type="checkbox" class="check" checked>
+					<label for="check"><span class="icon"></span> Mantenha-me conectado</label>
+				</div>
+				
+	<div class="group">
+					<input type="submit" class= "button" value="Entrar">
+				</div>
+		
+		
+	<div class="hr"></div>
+				<div class="foot-lnk">
+					<a href=" usuariocadastrartela.php">Deseja se tornar membro?</a>
+					
+				</div>	
+			</div>	
+		</div>
+	</form>	
+	</div>
+	
+</div>		
+		
+
+	</body>
+    </html>

@@ -1,0 +1,115 @@
+p {
+  font-family: 'open_sansbold';	
+  text-decoration-line: underline;
+  display: block;
+}
+
+
+
+h1 {
+	font-family: 'open_sansbold';
+    display: block;
+    color:white;
+	text-shadow: 0.4px 0.5px 3px #000000;
+	font-size: 60px;
+}
+
+
+h2 {
+   font-family: 'open_sansrextrabold';
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    background-color: #EA00CA;
+}
+
+
+form {
+	font-family: 'open_sansregular';
+    display: block;
+    margin-top: 0em;
+}
+
+body{
+	font-family: 'open_sansbold';
+	text-align: center;
+	background-color:#FFBAFE;/*FFCAFC; /*#e826bf;*/
+	color: #000;
+}	
+
+/*img.logo{
+background-color: #FFF;	
+background-size: auto;	
+	
+}*/
+.container{
+	width: 80%;
+	padding: 2em;
+	margin: 0 auto;
+	/*background-color:red;*/
+	text-align: center;
+	font-family: 'open_sansregular';
+}
+
+.question{
+	width: 90%;
+	margin: 1em auto;
+	background-color: #FFF;
+	padding: 1em;
+	box-shadow: #8200c3 0 -3px 0 0,rgba(0,0,0,.11765)0 0 2px 0,rgba(0,0,0,.23922)0 2px 4px 0;
+}*/
+
+html {
+    font-family: 'open_sansbold';
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #E100B5;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px #A4A4A4;
+}
+
+.button:hover {background-color: #FF58DE}
+
+.button:active {
+  background-color: #000000;
+  box-shadow: 0 5px #A4A4A4;
+  transform: translateY(4px);
+}
+
+ @font-face {
+     font-family: 'open_sansbold';
+     src: url('fonts/opensans-bold-webfont.woff2') format('woff2'), url('fonts/opensans-bold-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+}
+ @font-face {
+     font-family: 'open_sansextrabold';
+     src: url('fonts/opensans-extrabold-webfont.woff2') format('woff2'), url('fonts/opensans-extrabold-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+}
+ @font-face {
+     font-family: 'open_sanslight';
+     src: url('fonts/opensans-light-webfont.woff2') format('woff2'), url('fonts/opensans-light-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+}
+ @font-face {
+     font-family: 'open_sansregular';
+     src: url('fonts/opensans-regular-webfont.woff2') format('woff2'), url('fonts/opensans-regular-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+}

@@ -1,0 +1,237 @@
+
+ - INSERT INTO profile(pergunta ) VALUES('') - 23/05/2022 - 14:24:06
+ - INSERT INTO profile(pergunta ) VALUES('') - 23/05/2022 - 14:25:03
+ - INSERT INTO profile(pergunta ) VALUES('') - 23/05/2022 - 14:25:12
+ - INSERT INTO profile(pergunta ) VALUES('') - 23/05/2022 - 14:25:31
+ - INSERT INTO profile(pergunta) VALUES('') - 23/05/2022 - 14:29:19
+ - INSERT INTO profile(pergunta) VALUES('') - 23/05/2022 - 14:29:40
+ - INSERT INTO profile(pergunta) VALUES('') - 23/05/2022 - 14:36:49
+ - INSERT INTO profile(pergunta) VALUES('') - 23/05/2022 - 14:37:32
+147852 - INSERT INTO profile(pergunta) VALUES('147852') - 23/05/2022 - 14:38:36
+Qual seu nome? - INSERT INTO profile(pergunta) VALUES('Qual seu nome?') - 23/05/2022 - 16:21:58
+Qual seu nome? - INSERT INTO profile(pergunta) VALUES('Qual seu nome?') - 23/05/2022 - 16:26:14
+Qual seu nome? - INSERT INTO profile(pergunta) VALUES('Qual seu nome?') - 23/05/2022 - 16:29:35
+Qual seu nome? - INSERT INTO profile(pergunta) VALUES('Qual seu nome?') - 23/05/2022 - 16:30:07
+147852 - INSERT INTO profile(pergunta) VALUES('147852') - 23/05/2022 - 16:31:16
+147852 - INSERT INTO profile(pergunta) VALUES('147852') - 23/05/2022 - 16:34:14
+147852 - INSERT INTO profile(pergunta) VALUES('147852') - 23/05/2022 - 16:36:57
+Qual sua cor preferida? - INSERT INTO profile(pergunta) VALUES('Qual sua cor preferida?') - 24/05/2022 - 14:15:10
+Qual sua cor preferida? - INSERT INTO profile(pergunta) VALUES('Qual sua cor preferida?') - 24/05/2022 - 14:16:40
+GDFSS - INSERT INTO profile(pergunta) VALUES('GDFSS') - 24/05/2022 - 14:18:09
+ - INSERT INTO profile(pergunta) VALUES('') - 26/05/2022 - 22:30:44
+ Em uma discussão como você age? - INSERT INTO profile(pergunta) VALUES(' Em uma discussão como você age?') - 26/05/2022 - 22:32:06
+Como você age na frente do crush? - INSERT INTO profile(pergunta) VALUES('Como você age na frente do crush?') - 26/05/2022 - 22:34:53
+As pessoas conseguem te aborrercer facilmente? - INSERT INTO profile(pergunta) VALUES('As pessoas conseguem te aborrercer facilmente?') - 26/05/2022 - 22:40:57
+As pessoas conseguem te aborrercer facilmente? - INSERT INTO profile(pergunta) VALUES('As pessoas conseguem te aborrercer facilmente?') - 26/05/2022 - 22:51:42
+Quando conheço uma pessoa nova e ela me interessa, o que mais me chama atenção? - INSERT INTO profile(pergunta) VALUES('Quando conheço uma pessoa nova e ela me interessa, o que mais me chama atenção?') - 26/05/2022 - 22:58:22
+Quando acontece uma história engraçada, como eu conto? - INSERT INTO profile(pergunta) VALUES('Quando acontece uma história engraçada, como eu conto?') - 26/05/2022 - 22:58:36
+De modo geral, você evita oy não gosta de: - INSERT INTO profile(pergunta) VALUES('De modo geral, você evita oy não gosta de:') - 26/05/2022 - 22:58:52
+ Qual seu estilo musical favorito? - INSERT INTO profile(pergunta) VALUES(' Qual seu estilo musical favorito?') - 26/05/2022 - 22:59:57
+Como você age diante dos seus sonhos? - INSERT INTO profile(pergunta) VALUES('Como você age diante dos seus sonhos?') - 26/05/2022 - 23:00:13
+ - INSERT INTO profile(pergunta) VALUES('') - 27/05/2022 - 00:14:57
+sdfs - INSERT INTO profile(pergunta) VALUES('sdfs') - 31/05/2022 - 14:36:11
+sdfs - INSERT INTO profile(pergunta) VALUES('sdfs') - 31/05/2022 - 14:39:08
+sdfs - INSERT INTO profile(pergunta) VALUES('sdfs') - 31/05/2022 - 14:39:40
+Ste - INSERT INTO usuarios(nome, email, senha, acesso) VALUES('Ste', 'tete@tete', 'Tete1312.', 'Comum') - 01/06/2022 - 11:56:35
+ - INSERT INTO profile(pergunta) VALUES('') - 02/06/2022 - 12:36:02
+gfds - INSERT INTO profile(pergunta) VALUES('gfds') - 02/06/2022 - 12:42:59
+kjhgfd - INSERT INTO profile(pergunta) VALUES('kjhgfd') - 02/06/2022 - 12:51:34
+ - INSERT INTO profile(pergunta) VALUES('') - 03/06/2022 - 22:40:08
+ - INSERT INTO profile(pergunta) VALUES('') - 03/06/2022 - 22:40:41
+ - INSERT INTO profile(pergunta) VALUES('') - 03/06/2022 - 22:40:42
+ - INSERT INTO profile(pergunta) VALUES('') - 20/06/2022 - 14:42:17
+ - INSERT INTO profile(pergunta) VALUES('') - 20/06/2022 - 14:44:44
+ - INSERT INTO profile(pergunta) VALUES('') - 20/06/2022 - 14:45:13
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, status) VALUES('isa', 'isa@isa', '$2y$10$jjlVL6OHqzyvYry.rgdqW.HvRuRiX0eiu1b1blivLlGF6Kr8m4pLS', 'Comum', 'ativo') - 23/06/2022 - 12:14:48
+jhg - INSERT INTO profile(pergunta) VALUES('jhg') - 23/06/2022 - 13:15:12
+jujubad - UPDATE usuarios SET Status='ativo' WHERE id=4 - 24/06/2022 - 10:24:09
+jujubad - UPDATE usuarios SET Status='ativo' WHERE id=4 - 24/06/2022 - 10:24:31
+jujubad - UPDATE usuarios SET Status='inativo' WHERE id=4 - 24/06/2022 - 10:24:49
+jujubad - UPDATE usuarios SET Status='ativo' WHERE id=4 - 24/06/2022 - 10:26:15
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('aaa', 2) - 24/06/2022 - 11:12:11
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('roxo', 2) - 24/06/2022 - 11:14:57
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('azul', 2) - 24/06/2022 - 12:07:45
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('laranja', 2) - 24/06/2022 - 12:08:35
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Olivia', 'oli@via', '$2y$10$pxtDp0E2IUVyyiW1zOmbyumve1jqipj.6/ufIm5ex9c7AyY/3Nrmm', 'Comum', NOW(), 'ativo') - 24/06/2022 - 12:23:14
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Ajo de maneira boba, brincalhona', 3) - 27/06/2022 - 14:05:32
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Tento não demonstrar sentimentos/ emoções', 3) - 27/06/2022 - 14:06:07
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Fico nervosa, sem saber como agir', 3) - 27/06/2022 - 14:06:45
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa Santana', 'luuisasantanas@gmail.com', '$2y$10$fGF7XgViahHQtGNPEIdXl.jKIpGre24vU77lh22frS5cgDMxuqd6m', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:19:10
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa Aymeê', 'luuisasantanas@gmail.com', '$2y$10$GqmIghPXceXIjGP5Sr0hreSyrLOHBZmul5C6yDNN2tIqr3gBqNGCq', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:24:39
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa', 'luuisasantanas@gmail.com', '$2y$10$AoPPdQ./MvdpOt5idbGpYeG./p28NpzGR5w.3nx4P1RU.HaWHZPXG', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:25:15
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa', 'luuisasantanas@gmail.com', '$2y$10$GLDL5QgVOWTz0syUS.lNAe6Eei1a.A8LlPL3D5xoXRmTQaJxPGlq.', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:26:52
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa', 'luuisasantanas@gmail.com', '$2y$10$P2vl8kROzrZJH4t3q5vUYOboz5Kc/MsmlfCA.sRWxgGsIUVMUQOk2', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:31:17
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa', 'luuisasantanas@gmail.com', '$2y$10$PWigczbYhYlOUAB9RYNOsujfUIBHaTqEy98stleIxgEtGesnxXy4G', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:50:09
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa', 'luuisasantanas@gmail.com', '$2y$10$HQEimh5PyGroeYxncpoBDugIYya6rBidWLNSaIB5Fj94lAB7/QAU6', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:50:09
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Luisa', 'luuisasantanas@gmail.com', '$2y$10$ScWdLkPBwTPWhpWpEN9vuOqX9YxchFXGH54sshQeBQPM5FefKiVwG', 'Comum', NOW(), 'ativo') - 28/06/2022 - 00:57:02
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela da Costa', 'isabeladacosta17@hotmail.com', '$2y$10$aKRsjeNMX.HbP3VW0WOK5e06ETxfhwwr4JkfUUx304j92Ka2iPGFC', 'Comum', NOW(), 'ativo') - 28/06/2022 - 13:59:32
+dsaet - INSERT INTO profile(pergunta) VALUES('dsaet') - 28/06/2022 - 14:34:16
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('hjk', 4) - 28/06/2022 - 14:47:16
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('xx zx xc', 4) - 28/06/2022 - 15:18:45
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('fffffff', 4) - 28/06/2022 - 15:19:11
+Qual sua cor favorita? - INSERT INTO profile(pergunta) VALUES('Qual sua cor favorita?') - 29/06/2022 - 12:22:47
+Qual sua cor favorita? - INSERT INTO profile(pergunta) VALUES('Qual sua cor favorita?') - 29/06/2022 - 12:23:49
+Qual sua cor favorita? - INSERT INTO profile(pergunta) VALUES('Qual sua cor favorita?') - 29/06/2022 - 12:24:23
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('não', 4) - 29/06/2022 - 12:36:50
+sdfsf - INSERT INTO profile(pergunta) VALUES('sdfsf') - 29/06/2022 - 12:42:10
+qual sua  - INSERT INTO profile(pergunta) VALUES('qual sua ') - 29/06/2022 - 12:47:01
+O anderson é maravilhoso? - INSERT INTO profile(pergunta) VALUES('O anderson é maravilhoso?') - 29/06/2022 - 12:50:36
+fsdewe43 - INSERT INTO profile(pergunta) VALUES('fsdewe43') - 29/06/2022 - 12:59:02
+sere5 - INSERT INTO profile(pergunta) VALUES('sere5') - 29/06/2022 - 13:04:28
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela6789@', 'isabeladacosta17@hotmail.com', '$2y$10$KeP/8wxfJ1BTYnJYr3sBCOn6SOrBmLjZbRABpbME98nxl8/YE0vfm', 'Comum', NOW(), 'ativo') - 07/07/2022 - 12:05:18
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela6789@', 'isabeladacosta17@hotmail.com', '$2y$10$9CYlRafog.YFbnO5CMkBCOxJzxfp3XBSL.NOa87/od2deWCo4Olc.', 'Comum', NOW(), 'ativo') - 07/07/2022 - 12:06:18
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$AWOkUV1VTpt6Sjs0KiLanOzRHzeqFiQHVcjU1vcp2ZVHiCEDzicZ2', 'Comum', NOW(), 'ativo') - 08/07/2022 - 14:48:03
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$kgeoM.k3vOkPGYMy.Nrm3uIEtx2hGHOJp5.wwDq/AFfwtShEHgrOq', 'Comum', NOW(), 'ativo') - 08/07/2022 - 14:49:32
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$dBOOtTw.EgbAi1D4/fl9y.rEpGUYCkfO.f40jh.7NL968Ym33/aci', 'Comum', NOW(), 'ativo') - 08/07/2022 - 14:49:59
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$2vBJd4m.jppXZT6mzjjq9OKV4XqHrrnyTmB.N2CN8enUaPfL8jJyK', 'Comum', NOW(), 'ativo') - 08/07/2022 - 14:52:18
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Azul', 1) - 12/07/2022 - 16:25:12
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Azul', 1) - 12/07/2022 - 16:25:23
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Azul', 1) - 12/07/2022 - 16:36:31
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Preto', 1) - 12/07/2022 - 16:38:24
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Laranja', 1) - 12/07/2022 - 16:39:00
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Laranja', 1) - 12/07/2022 - 16:40:24
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('hjjh', 2) - 12/07/2022 - 16:40:42
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$qE1TWyyOs4Ka7u5tRpBN0OZM1BlT/vv2CGvLVfsflMKvMqI4la8di', 'Comum', NOW(), 'ativo') - 13/07/2022 - 13:44:11
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$EGK3uqRmgvShVZvaA22UdObhPc98wnEGf2vqLKtpwedTW.mjCSaW.', 'Comum', NOW(), 'ativo') - 13/07/2022 - 13:46:49
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$MBAwNbqxLn0BdQwYJ4DoueKTrfH5rSzH.SWVvgZXvj0Qdk7d8EcFe', 'Comum', NOW(), 'ativo') - 13/07/2022 - 13:50:38
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('sthe', 'stephanyfirme@gmail.com', '$2y$10$Zoq8qJknAQPhLt.7.ODJKeI.ATOWfd7Q5ATJoiUihZcYJnICN04Z6', 'Comum', NOW(), 'ativo') - 13/07/2022 - 13:53:47
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('Isabela', 'isabeladacosta17@hotmail.com', '$2y$10$fmG.H.ieBgHor/DzbEpulu8J5tCqJUiCdeWsoVgOx2Z4lul505fIe', 'Comum', NOW(), 'ativo') - 13/07/2022 - 14:58:26
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status) VALUES('isa', '', '$2y$10$7Tw1eMg/axC78j3Na4HVyekWC6Qv.VgBhsLxTTlk.YdJdF0d./GFa', 'Comum', NOW(), 'ativo') - 15/07/2022 - 13:30:10
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Não entro na discussão', 2) - 05/08/2022 - 14:29:09
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Tento sempre defender meu ponto de vista', 2) - 05/08/2022 - 14:29:49
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Me exalto e perco a paciência ', 2) - 05/08/2022 - 14:30:32
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Ajo de maneira boba, brincalhona', 3) - 05/08/2022 - 14:36:41
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Tento não demonstrar sentimentos/ emoções', 3) - 05/08/2022 - 14:39:34
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Fico nervosa sem saber como agir. ', 3) - 05/08/2022 - 14:40:15
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Fico ansiosa, esperando algo acontecer', 3) - 05/08/2022 - 14:40:52
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Sim mas me isolo para não entrar em conflito.', 4) - 05/08/2022 - 14:42:04
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Não, é bem difícil me aborrecer', 4) - 05/08/2022 - 14:42:40
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Sim, muito facilmente.', 4) - 05/08/2022 - 14:43:06
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Depende do meu humor', 4) - 05/08/2022 - 14:43:19
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Tento contar mas acabo rindo mais do que contando', 6) - 05/08/2022 - 14:47:50
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Deixando a história cada vez mais engraçada', 6) - 05/08/2022 - 14:48:21
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Geralmente não conto, mas quando conto imagino ela cada vez mais engraçada', 6) - 05/08/2022 - 14:49:06
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Conto rindo muito', 6) - 05/08/2022 - 14:49:21
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Conversar quando estou estressada', 7) - 05/08/2022 - 14:52:39
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Pensar demais', 7) - 05/08/2022 - 14:53:31
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Lidar com problemas que me envolvem', 7) - 05/08/2022 - 14:53:55
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Mentiras', 7) - 05/08/2022 - 14:54:08
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('K - POP', 8) - 05/08/2022 - 14:55:27
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('POP', 8) - 05/08/2022 - 14:56:35
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Rap acústico/ R&B', 8) - 05/08/2022 - 14:57:03
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Funk', 8) - 05/08/2022 - 14:57:13
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Fico irritada, não sei lidar muito bem com a pressão', 9) - 05/08/2022 - 15:00:07
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Mantenho a calma e procuro uma solução definitiva', 9) - 05/08/2022 - 15:00:47
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Ignoro e continuo a vida', 9) - 05/08/2022 - 15:01:22
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Não sei lidar, não penso direito sobre pressão.', 9) - 05/08/2022 - 15:01:57
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Eu simplesmente simpatizo com a pessoa e quando me sinto confortável tento aprofundar o relacionamento.', 5) - 08/08/2022 - 17:05:42
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Como ela me trata, seu jeito de agir e seus princípios', 5) - 12/08/2022 - 13:05:42
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Seu jeito de ver o mundo e sua personalidade', 5) - 12/08/2022 - 13:07:46
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('O jeito como ela me trata com personalidade', 5) - 12/08/2022 - 13:08:23
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Atitude e modo de agir', 5) - 12/08/2022 - 13:08:39
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Tetnto avançar um pouco a cada dia', 10) - 12/08/2022 - 13:10:17
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Corro atrás respeitando meu tempo', 10) - 12/08/2022 - 13:10:56
+jujubad - INSERT INTO opcoes(opcoes, profile_id) VALUES('Não tenho um objetivo concreto para não me frustrar', 10) - 12/08/2022 - 13:11:27
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isa', 'isabeladacosta17@hotmail.com', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '15979426') - 12/08/2022 - 14:39:37
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isa', 'isabeladacosta17@hotmail.com', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '40236660') - 12/08/2022 - 14:39:41
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('vhdfbv', 'isabeladacosta1704@gmail.com', 'Isa1704@', 'Comum', NOW(), 'aguardando', '94420231') - 23/08/2022 - 17:01:20
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('vhdfbv', 'isabeladacosta1704@gmail.com', 'Isa1704@', 'Comum', NOW(), 'aguardando', '48899071') - 23/08/2022 - 17:03:18
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('vhdfbv', 'isabeladacosta1704@gmail.com', 'Isa1704@', 'Comum', NOW(), 'aguardando', '79805964') - 23/08/2022 - 17:04:21
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('vhdfbv', 'isabeladacosta1704@gmail.com', 'Isaaa1705', 'Comum', NOW(), 'aguardando', '17781837') - 23/08/2022 - 17:04:57
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('vhdfbv', 'isabeladacosta1704@gmail.com', 'Isaaaa14', 'Comum', NOW(), 'aguardando', '57037013') - 23/08/2022 - 17:10:09
+jujubad - UPDATE usuarios SET nome='jujuba', email='', acesso='Admin' WHERE id=1 - 25/08/2022 - 19:02:38
+jujubad - UPDATE usuarios SET nome='jujuba', email='', acesso='Admin' WHERE id=1 - 25/08/2022 - 19:03:01
+jujubad - UPDATE usuarios SET nome='jujuba', email='www@www', acesso='Admin' WHERE id=1 - 25/08/2022 - 19:03:53
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Luisaaa', 'luuisasantanas@gmail.com', 'Lulu9005', 'Comum', NOW(), 'aguardando', '72732218') - 05/09/2022 - 22:40:01
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Luisaaa', 'luuisasantanas@gmail.com', 'Luluuu145', 'Comum', NOW(), 'aguardando', '47770684') - 05/09/2022 - 23:50:27
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Luisaaa', 'luuisasantanas@gmail.com', 'Luluuu145', 'Comum', NOW(), 'aguardando', '18704685') - 05/09/2022 - 23:50:40
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('luisaaaaaaaaaa', 'isabeladacosta1704@gmail.com', 'Luisa123402', 'Comum', NOW(), 'aguardando', '92982362') - 06/09/2022 - 14:21:19
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Junior', 'isabeladacosta1704@gmail.com', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '91405228') - 06/09/2022 - 14:35:39
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta1704@gmail.com', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '13277816') - 06/09/2022 - 14:43:55
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta1704@gmail.com', 'Bela6789.', 'Comum', NOW(), 'aguardando', '15355997') - 06/09/2022 - 14:49:17
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta1704@gmail.com', 'Isaisa6789.', 'Comum', NOW(), 'aguardando', '36333297') - 06/09/2022 - 14:50:35
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta1704@gmail.com', 'Isaisa6789.', 'Comum', NOW(), 'aguardando', '48190055') - 06/09/2022 - 14:52:05
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta1704@gmail.com', 'Isa678910.', 'Comum', NOW(), 'aguardando', '27112337') - 06/09/2022 - 15:00:24
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('jujubaa', 'isabeladacosta17@hotmail.com', 'Juliana1809', 'Comum', NOW(), 'aguardando', '84424706') - 06/09/2022 - 18:58:35
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Janaína ', 'almeidajana004@gmail.com', 'A5fggdc5vn7', 'Comum', NOW(), 'aguardando', '68600378') - 06/09/2022 - 22:16:46
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Janaína ', 'almeidajana004@gmail.com', 'A5fggdc5vn7', 'Comum', NOW(), 'aguardando', '75738146') - 06/09/2022 - 22:18:51
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Janaína ', 'almeidajana004@gmail.com', 'A5fggdc5vn7', 'Comum', NOW(), 'aguardando', '73662147') - 06/09/2022 - 22:18:52
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Janaína ', 'almeidajana004@gmail.com', 'A5fggdc5vn7', 'Comum', NOW(), 'aguardando', '37622348') - 06/09/2022 - 22:18:57
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('amor da Janaina', 'barbiemosqueteira@gmail.com', 'Senhaa123', 'Comum', NOW(), 'aguardando', '17814582') - 06/09/2022 - 22:20:57
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('luisa santana linda ', 'luuisasantanas@gmail.com', 'Lusinha9005', 'Comum', NOW(), 'aguardando', '17917332') - 06/09/2022 - 22:47:24
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Fran Freitas', 'francieledefreitas@gmail.com', 'Fr@n2402', 'Comum', NOW(), 'aguardando', '50619274') - 06/09/2022 - 22:54:53
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Joseluce', 'jose.luce.002@hotmail.com', 'Lusinha9005', 'Comum', NOW(), 'aguardando', '76799513') - 06/09/2022 - 22:56:09
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Eric ', 'ericlima232002@gmail.com', 'Stephany04', 'Comum', NOW(), 'aguardando', '10649094') - 06/09/2022 - 23:10:50
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('João fx', 'sobreroda2017@gmail.com', 'Joao2@14', 'Comum', NOW(), 'aguardando', '41770047') - 06/09/2022 - 23:20:19
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Nicolas freitas ', 'nicolasfreitass@icloud.com', 'Freitasrimas123', 'Comum', NOW(), 'aguardando', '94025203') - 06/09/2022 - 23:24:01
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Elisa', 'elis.anjos@hotmail.com', 'Nocebt08', 'Comum', NOW(), 'aguardando', '77762536') - 06/09/2022 - 23:50:42
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Kratos', 'qualquercoisa@gmail.com', 'Aa1234567', 'Comum', NOW(), 'aguardando', '80574269') - 06/09/2022 - 23:59:57
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isinha', 'isabeladacosta17@hotmail.com', 'Isa6789.', 'Comum', NOW(), 'aguardando', '88967578') - 07/09/2022 - 17:12:12
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta1704@gmail.com', 'Midia2345.', 'Comum', NOW(), 'aguardando', '17367638') - 07/09/2022 - 17:38:29
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta1704@gmail.com', 'Isabelaisa6789.', 'Comum', NOW(), 'aguardando', '83514239') - 07/09/2022 - 17:40:08
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isa', 'isabeladacosta1704@gmail.com', 'Isabelinha6789.', 'Comum', NOW(), 'aguardando', '67114867') - 07/09/2022 - 17:45:19
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isinha', 'isabeladacosta17@hotmail.com', 'Isabela5678.', 'Comum', NOW(), 'aguardando', '54748809') - 07/09/2022 - 17:46:22
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isinha', 'isabeladacosta17@hotmail.com', 'Barbie6789.', 'Comum', NOW(), 'aguardando', '10731859') - 07/09/2022 - 17:47:54
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Thalyta ', 'thalytaeloahs@gmail.com', 'Thata90005', 'Comum', NOW(), 'aguardando', '71273412') - 07/09/2022 - 23:36:44
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela ', 'bellaaleixxo@hotmail.com', 'Belibrlonha12', 'Comum', NOW(), 'aguardando', '49723482') - 07/09/2022 - 23:41:01
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('thalyta eloah ', 'thalytaeloahs@gmail.com', 'Thata123456', 'Comum', NOW(), 'aguardando', '76697863') - 07/09/2022 - 23:45:33
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Michadivonicababilonica', 'michaeleprj@hotmail.com', '127193Mi@', 'Comum', NOW(), 'aguardando', '70703354') - 08/09/2022 - 00:20:04
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('isabela', 'isabeladacosta1704@gmail.com', 'Isabela679.', 'Comum', NOW(), 'aguardando', '19782594') - 08/09/2022 - 12:53:53
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Renan', 'renancorrea104@gmail.com', 'Renan123', 'Comum', NOW(), 'aguardando', '87984949') - 09/09/2022 - 12:07:16
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('donolla', 'donollasepulvida@gmail.com', 'Sagitario12345', 'Comum', NOW(), 'aguardando', '67879133') - 09/09/2022 - 12:15:37
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('TonhãoCaixaBaixa', 'antonoopedro25@gmail.com', 'Antonio12', 'Comum', NOW(), 'aguardando', '19076529') - 09/09/2022 - 12:27:27
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('vinicin', 'viniciusserra93@gmail.com', 'Vinicin2009@', 'Comum', NOW(), 'aguardando', '52208613') - 09/09/2022 - 12:30:11
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('faby', 'fabiellysouto0710@gmail.com', 'fABY0710.', 'Comum', NOW(), 'aguardando', '90831988') - 09/09/2022 - 12:31:49
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('2.L MAVADEZA', 'allandasilvafernandes@gmail.com', 'Allan811728', 'Comum', NOW(), 'aguardando', '52812555') - 09/09/2022 - 12:35:41
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Andrade', 'Cassioandrade1111@gmail.com', 'BleachCas10', 'Comum', NOW(), 'aguardando', '77001432') - 09/09/2022 - 12:36:09
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('wernner', 'wernner@wernner.com', 'Wernner-3', 'Comum', NOW(), 'aguardando', '82585871') - 09/09/2022 - 12:40:06
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('joaooo', 'jvitormx@gmail.com', 'Joao.1234', 'Comum', NOW(), 'aguardando', '87014342') - 09/09/2022 - 12:40:54
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Sandro', '', '123A456JD&ERLT#@$$254GGHGffhsh52', 'Comum', NOW(), 'aguardando', '60716187') - 09/09/2022 - 12:41:31
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Amanda', 'asilvapradobonifacio@gmail.com', 'love123Aa', 'Comum', NOW(), 'aguardando', '79907308') - 09/09/2022 - 12:47:54
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Thanos ', '', '2319abcA$', 'Comum', NOW(), 'aguardando', '44164626') - 09/09/2022 - 12:49:13
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Alanaja', 'alana.h.braga@gmail.com', 'Alanaja123', 'Comum', NOW(), 'aguardando', '83444655') - 09/09/2022 - 12:54:54
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('gabigol', 'gabigol@mengao.com', 'Gabigol22', 'Comum', NOW(), 'aguardando', '36229998') - 09/09/2022 - 13:01:49
+jujubad - UPDATE usuarios SET nome='bela', email='bela@belinha', acesso='Comum' WHERE id=2 - 09/09/2022 - 20:31:39
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 20:32:46
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 21:37:33
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 21:41:26
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 21:59:03
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 21:59:22
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:00:10
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:03:59
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:04:46
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:05:24
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:05:40
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:05:52
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:06:24
+jujubad - UPDATE usuarios SET nome='bela', email='bela@bela', acesso='Comum' WHERE id=2 - 09/09/2022 - 22:37:08
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Rozilene da Conceição de Almeida Leite ', 'arozileneleite@yahoo.com', 'Nina#2004', 'Comum', NOW(), 'aguardando', '57170633') - 10/09/2022 - 21:30:12
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Brunna', 'brunna@amigadaalanaja.com', 'Bruninha123', 'Comum', NOW(), 'aguardando', '16258088') - 11/09/2022 - 00:29:43
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Bela', 'isabeladacosta17@hotmail.com', 'Isabela6789+', 'Comum', NOW(), 'aguardando', '35451724') - 12/09/2022 - 16:49:53
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta17@hotmail.com', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '73081711') - 12/09/2022 - 16:58:09
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('', '', '', 'Comum', NOW(), 'aguardando', '33135018') - 13/09/2022 - 14:00:49
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', 'isabeladacosta17@hotmail.com', 'Isabelinha6789.', 'Comum', NOW(), 'aguardando', '81545135') - 13/09/2022 - 14:02:13
+jujubad - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('', '', '', 'Comum', NOW(), 'aguardando', '76930649') - 13/09/2022 - 14:02:53
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Tete', 'stephanyfirme@gmail.com', 'Stephany3565', 'Comum', NOW(), 'aguardando', '47750119') - 13/09/2022 - 14:25:56
+jujubad - UPDATE usuarios SET Status='inativo' WHERE id=4 - 13/09/2022 - 14:35:49
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('oliver', '', 'oliver@III123.', 'Comum', NOW(), 'aguardando', '49290465') - 21/09/2022 - 12:38:34
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabelinha', '', 'Isabelinha6789.', 'Comum', NOW(), 'aguardando', '47414621') - 23/09/2022 - 12:08:38
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('iSABELA', '', 'iSABELA6789+', 'Comum', NOW(), 'aguardando', '28615357') - 23/09/2022 - 12:18:56
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', '', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '23072059') - 23/09/2022 - 12:24:11
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', '', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '64803551') - 23/09/2022 - 12:24:23
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', '', 'Isabela6789.', 'Comum', NOW(), 'aguardando', '45457939') - 23/09/2022 - 12:26:55
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isa', '', 'Isabela789*', 'Comum', NOW(), 'aguardando', '17204084') - 23/09/2022 - 12:27:31
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isa', '', 'Isabella6789', 'Comum', NOW(), 'aguardando', '86608181') - 23/09/2022 - 12:29:51
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', '', 'Isabela6789*', 'Comum', NOW(), 'aguardando', '64961847') - 23/09/2022 - 12:36:23
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', '', 'Isabela6789*', 'Comum', NOW(), 'aguardando', '52080156') - 23/09/2022 - 12:36:36
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabela', '', 'Isabela6789*', 'Comum', NOW(), 'aguardando', '51170549') - 23/09/2022 - 12:38:26
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabe', '', 'isabela5478*A', 'Comum', NOW(), 'aguardando', '47840509') - 23/09/2022 - 12:38:51
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('oiuyhg', '', 'jhgfA123*', 'Comum', NOW(), 'aguardando', '26267838') - 23/09/2022 - 12:39:24
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isabella', '', 'Isabella789*', 'Comum', NOW(), 'aguardando', '34315780') - 23/09/2022 - 12:50:23
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isq', '', 'jhgfdR789.', 'Comum', NOW(), 'aguardando', '63306827') - 25/09/2022 - 15:21:55
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isq', '', 'jhgfdR789.', 'Comum', NOW(), 'aguardando', '39174364') - 25/09/2022 - 15:31:34
+ - INSERT INTO usuarios(nome, email, senha, acesso, data, status, validador) VALUES('Isq', '', 'jhgfdR789.', 'Comum', NOW(), 'aguardando', '68224890') - 25/09/2022 - 15:32:23
+jujubad - UPDATE usuarios SET Status='ativo' WHERE id=124 - 05/10/2022 - 14:55:09
+jujubad - DELETE FROM usuarios WHERE Id= 53 - 19/10/2022 - 23:55:59
+jujubad - UPDATE usuarios SET Status='ativo' WHERE id=57 - 19/10/2022 - 23:56:14
+jujubad - UPDATE usuarios SET Status='inativo' WHERE id=57 - 19/10/2022 - 23:56:25
